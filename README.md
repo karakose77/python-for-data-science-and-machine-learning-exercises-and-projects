@@ -5,6 +5,9 @@ Includes my exercise solutions and projects from python for data science online 
 `c.IPKernelApp.matplotlib = 'inline'`  
 `c.InlineBackend.figure_format = 'retina'`
 
+---
+
+## Table of Contents
 
 1. **"mk001-matplotlib_exercises.ipynb"**: Exercise solutions and plots with matplotlib.
 2. **"mk002-seaborn_exercises.ipynb"**: Exercise solutions and plots with seaborn.
