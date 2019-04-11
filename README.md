@@ -17,3 +17,4 @@ Includes my exercise solutions and projects from python for data science online 
 6. **"mk006-plotly_choropleth_maps_exercises.ipynb"**: Exercise solutions and plots with plotly choropleth visualizations.
 7. **"mk007-project_emergency_calls.ipynb"**: My data analysis of 911 call data from Kaggle.
 8. **"mk008-project_finance.ipynb"**: My data analysis of stock prices variations of some banks.
+9. **"mk009-USA_housing_analysis.ipynb"**: My data analysis of housing price variations according to some real estate parameters.
