@@ -15,3 +15,4 @@ Includes my exercise solutions and projects from python for data science online 
 4. **"mk004-ecommerce_purchases_exercise.ipynb"**: My data analysis of some fake data about some purchases done through Amazon.
 5. **"mk005-pandas_visualization_exercises.ipynb"**: Exercise solutions and plots with pandas visualizations.
 6. **"mk006-plotly_choropleth_maps_exercises.ipynb"**: Exercise solutions and plots with plotly choropleth visualizations.
+7. **"mk007-project_emergency_calls.ipynb"**: My data analysis of 911 call data from Kaggle.
