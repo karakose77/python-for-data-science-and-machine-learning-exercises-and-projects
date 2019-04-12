@@ -22,3 +22,4 @@ Includes my exercise solutions and projects from python for data science online 
 11. **"mk011-boston_house_prices_analysis.ipynb"**: My data analysis of the variations of the house prices in the Boston area according to various parameters of Boston.
 12. **"mk012-project_titanic_data_analysis.ipynb"**: My data analysis of the famous titanic data set from Kaggle.
 13. **"mk013-project_advertising_data_analysis.ipynb"**: My data analysis of a fictitious data set to model and predict whether or not a particular internet user will click on an ad based off the features of that user.
+14. **"mk014-project_classified_data-1_analysis.ipynb"**: My data analysis of a classified data set by using K-Nearest Neighbors method.
