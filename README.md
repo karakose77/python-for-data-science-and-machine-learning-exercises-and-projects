@@ -19,3 +19,4 @@ Includes my exercise solutions and projects from python for data science online 
 8. **"mk008-project_finance.ipynb"**: My data analysis of stock prices variations of some banks.
 9. **"mk009-USA_housing_analysis.ipynb"**: My data analysis of housing price variations according to some real estate parameters.
 10. **"mk010-e-commerce_customer_analysis.ipynb"**: My data analysis of the variations of yearly money spend ny customers on an e-commerce site according to some parameters about the customers.
+11. **"mk011-boston_house_prices_analysis.ipynb"**: My data analysis of the variations of the house prices in the Boston area according to various parameters of Boston.
