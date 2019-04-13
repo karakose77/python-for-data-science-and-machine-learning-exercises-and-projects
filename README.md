@@ -24,3 +24,4 @@ Includes my exercise solutions and projects from python for data science online 
 13. **"mk013-project_advertising_data_analysis.ipynb"**: My data analysis of a fictitious data set to model and predict whether or not a particular internet user will click on an ad based off the features of that user.
 14. **"mk014-project_classified_data-1_analysis.ipynb"**: My data analysis of a classified data set by using K-Nearest Neighbors method.
 15. **"mk015-project_classified_data-2_analysis.ipynb"**: My data analysis of another classified data set by using K-Nearest Neighbors method.
+16. **"mk016-project_kyphosis_data_analysis.ipynb"**: My data analysis of kyphosis data set which consists of 81 observations of four variables (Age, Number, Kyphosis, Start) in children following corrective spinal surgery. The variable Kyphosis reports the absence or presence of this deformity.
