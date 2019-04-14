@@ -28,3 +28,4 @@ Includes my exercise solutions and projects from python for data science online 
 17. **"mk017-project_lending_club_data_analysis.ipynb"**: My data analysis of Lending Club Data Set, which tries to guess high probability paying customers who borrowed money from investors according to some parameters about the customers.
 18. **"mk018-project_visualize_iris_data_random_forest.ipynb"**: My code for visualization of random forest algorithm for iris data set.
 19. **"mk019_project_breast_cancer_data_analysis_with_SVC.ipynb"**: My data analysis of breast cancer data set with support vector machines algorithm.
+20. **"mk020-project_gaussian_blob_analysis_with_k_means_clustering.ipynb"**: My data analysis of gaussian blobs with k-means clustering algorithm.
