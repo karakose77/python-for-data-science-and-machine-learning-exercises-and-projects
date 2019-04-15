@@ -31,3 +31,4 @@ Includes my exercise solutions and projects from python for data science online 
 20. **"mk020-project_gaussian_blob_analysis_with_k_means_clustering.ipynb"**: My data analysis of gaussian blobs with k-means clustering algorithm.
 21. **"mk021-project_college_data_analysis.ipynb"**: My data analysis of college data set trying to cluster universities into private and public groups based on their various parameters.
 22. **"mk022_project_breast_cancer_data_analysis_with_PCA.ipynb"**: My data analysis of breast cancer data set with principal component analysis algorithm.
+23. **"mk023-project_MovieLens_recommender_system.ipynb"**: My model of a recommender system for MovieLens Data Set based on similarity of movies.
