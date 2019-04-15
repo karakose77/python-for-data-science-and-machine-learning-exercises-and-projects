@@ -30,3 +30,4 @@ Includes my exercise solutions and projects from python for data science online 
 19. **"mk019_project_breast_cancer_data_analysis_with_SVC.ipynb"**: My data analysis of breast cancer data set with support vector machines algorithm.
 20. **"mk020-project_gaussian_blob_analysis_with_k_means_clustering.ipynb"**: My data analysis of gaussian blobs with k-means clustering algorithm.
 21. **"mk021-project_college_data_analysis.ipynb"**: My data analysis of college data set trying to cluster universities into private and public groups based on their various parameters.
+22. **"mk022_project_breast_cancer_data_analysis_with_PCA.ipynb"**: My data analysis of breast cancer data set with principal component analysis algorithm.
