@@ -35,3 +35,4 @@ Includes my exercise solutions and projects from python for data science online 
 24. **"mk024-project_MovieLens_advanced_recommender_system.ipynb"**: My implementation of model based collaborative filtering by using singular value decomposition (SVD) and memory based collaborative filtering by computing cosine similarity for MovieLens Data Set.
 25. **"mk025-project_spam_collection_data_analysis.ipynb"**: My analysis of Spam Collection Data Set for spam classification.
 26. **"mk026-project_yelp_review_data_analysis.ipynb"**: My analysis of classifying Yelp Review Data Set from Kaggle into 1 star or 5 stars categories based off the text content in the reviews.
+27. **"mk027-project_MNIST_data_analysis_basic_approach.ipynb"**: My implementation of a simple image processing model for the MNIST(Modified National Institute of Standards and Technology) Data Set with tensorflow.
