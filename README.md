@@ -37,3 +37,4 @@ Includes my exercise solutions and projects from python for data science online 
 26. **"mk026-project_yelp_review_data_analysis.ipynb"**: My analysis of classifying Yelp Review Data Set from Kaggle into 1 star or 5 stars categories based off the text content in the reviews.
 27. **"mk027-project_MNIST_data_analysis_basic_approach.ipynb"**: My implementation of a simple image processing model for the MNIST(Modified National Institute of Standards and Technology) Data Set with tensorflow.
 28. **"mk028-project_iris_data_analysis_with_tensorflow_and_estimators.ipynb"**: My analysis of Iris Data Set with Tensorflow Estimators.
+29. **"mk029-project_bank_authentication_data_analysis_with_tensorflow.ipynb"**: My analysis of Bank Authentication Data Set with Tensorflow. Data were extracted from images that were taken from genuine and forged banknote-like specimens.
